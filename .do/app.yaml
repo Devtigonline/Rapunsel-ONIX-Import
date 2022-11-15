@@ -1,4 +1,4 @@
-name: sample-php
+name: rapunsel-onix-import
 services:
 - environment_slug: php
   github:
