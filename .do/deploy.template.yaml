@@ -1,0 +1,8 @@
+spec:
+  name: rapunsel-onix-import
+  services:
+  - environment_slug: php
+    git:
+      branch: main
+      repo_clone_url: https://github.com/Devtigonline/Rapunsel-ONIX-Import.git
+    name: rapunsel-onix-import
